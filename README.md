@@ -1,0 +1,2 @@
+# project
+Mening birinchi  project
